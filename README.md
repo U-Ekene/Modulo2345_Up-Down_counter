@@ -1,4 +1,4 @@
-# Modulo 2/3/4/5 Up-Down Counter (VHDL)
+# Modulo 2345 Up-Down Counter (VHDL)
 
 A VHDL-based up/down counter designed for FPGA implementation.  
 The system performs internal counting in radix 8 and supports displaying values in either base 8 or base 14 using four seven-segment displays. 
