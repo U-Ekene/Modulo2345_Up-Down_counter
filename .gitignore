@@ -1,0 +1,27 @@
+# Quartus / FPGA build outputs
+db/
+incremental_db/
+output_files/
+simulation/
+qdb/
+
+# Generated project files
+*.qws
+*.qpf
+*.qsf.bak
+
+# Logs and reports
+*.log
+*.rpt
+*.summary
+*.done
+
+# Temporary / backup files
+*.bak
+*.tmp
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
