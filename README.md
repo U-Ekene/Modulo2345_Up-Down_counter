@@ -33,3 +33,8 @@ the core logic. Emphasis was placed on clarity, modularity, and reliable user in
 - BaseConverter.vhd – Converts internal values for display in different bases  
 - clk_gen_1_output.vhd – Clock generation module  
 - sevenSegment.vhd – Seven-segment display driver
+
+## 👀 Preview
+![Counter preview](images/fpga.jpg)
+
+- Cyclone IV Altera DE2-115 Development and Education Board
